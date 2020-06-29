@@ -1,4 +1,6 @@
 # matlab-homework
+<p>matlab/作业/现学现卖GUI，冗余的代码，逃~</p>
+<p>可以生成exe,大概6Mb,不过开源性不好，就不上传release了</p>
 <h3> 首先感谢两位B站up</h3>
 <p>1.思路来源参考：https://www.bilibili.com/video/BV1j7411z7KQ?from=search&seid=10391321658210734361</p>
 <p>2.部分代码参考：https://www.bilibili.com/video/BV1u7411W7dF?from=search&seid=254432281824175386</p>
