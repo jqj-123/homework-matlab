@@ -1,4 +1,4 @@
-# matlab-homework
+# homework-matlab
 <p>matlab/作业/现学现卖GUI，冗余的代码，逃~</p>
 <p>可以生成exe,大概6Mb,不过开源性不好，就不上传release了</p>
 <h3> 首先感谢两位B站up</h3>
